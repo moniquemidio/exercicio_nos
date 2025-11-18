@@ -31,7 +31,7 @@ int main() {
 
     inserirInicio(head, 50);
 
-    cout << "\nLista após inserir 50 no início:"< endl;
+    cout << "Lista após inserir 50 no início:"< endl;
     imprimirLista(head);
 
     return 0;
